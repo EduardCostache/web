@@ -1,4 +1,4 @@
-Deaths,Data Marking,calendar-years,Time,administrative-geography,Geography,week-number,Week,sex,Sex,age-groups,AgeGroups,recorded-deaths,Death
+Deaths,Data Marking,calendar-years,Time,administrative-geography,Geography,weekNum,Week,sex,Sex,age-groups,AgeGroups,recorded-deaths,Death
 15,,2020,2020,K04000001,England and Wales,44,Week 44 ending 30-Oct-20,all,All,15-19,15-19,total-registered-deaths,Total registered deaths
 9392,,2020,2020,K04000001,England and Wales,33,Week 33 ending 14-Aug-20,all,All,all,All ages,total-registered-deaths,Total registered deaths
 3,,2020,2020,K04000001,England and Wales,18,Week 18 ending 01-May-20,all,All,Oct-14,Oct-14,total-registered-deaths,Total registered deaths
