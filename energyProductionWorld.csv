@@ -1,4 +1,4 @@
-Year,Coal (TWh; substituted energy),Solar (TWh; substituted energy),Oil (TWh; substituted energy),Gas (TWh; substituted energy),Traditional bimass (TWh; substituted energy),Other renewables (TWh; substituted energy),Hydropower (TWh; substituted energy),Nuclear (TWh; substituted energy),Wind (TWh; substituted energy),Biofuels (TWh; substituted energy)
+year,coal,solar,oil,gas,biMass,otherRenewables,hydropower,nuclear,wind,biofuels
 1800,97,0,0,0,5556,0,0,0,0,0
 1810,128,0,0,0,5833,0,0,0,0,0
 1820,153,0,0,0,6111,0,0,0,0,0
